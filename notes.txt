@@ -1,0 +1,5 @@
+javascript.info
+
+books on javascript - eloquentjavascript.net
+
+DOM means documenting an entire model into an object

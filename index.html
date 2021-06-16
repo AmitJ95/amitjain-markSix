@@ -4,9 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Banana app</title>
+    <style>
+        textarea{
+            width: 50%;
+            height: 20vh;
+            margin: 1rem;
+            padding: 1rem;
+        }
+        #translate{
+            margin-left: 1rem;
+        }
+    </style>
 </head>
 <body>
-    
+    <h1>talk to banana app</h1>
+    <textarea placeholder="Enter the text to translate"id="txt-input"></textarea>
+    <br>
+    <button id="translate">Translate</button>
+    <br>
+    <textarea id="txt-output"></textarea>
+    <script src="app.js"></script>
 </body>
 </html>

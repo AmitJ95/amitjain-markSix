@@ -3,6 +3,7 @@
 
 :root{
     --primary-color: #FCD34D;
+    
 }
 
 *{
@@ -36,6 +37,8 @@ textarea{
     height: 20vh;
     margin-top: 2rem;
     padding: 1rem;
+    font-family: inherit;
+    font-size: larger;
     
 }
 #translate{
@@ -56,6 +59,7 @@ textarea{
   max-height: 20vh; 
   padding: 1rem; 
   overflow: scroll;
+  font-size: larger;
 }
 
 footer{
@@ -64,13 +68,13 @@ footer{
     bottom: 0;
     width: 100%;
     padding: 1rem;
-    font-size: x-large;
     text-align: center;
     height: 20vh;
 }
 
 footer p{
     max-width: 600px;
+    font-size: larger;
     margin: auto;
     
 }

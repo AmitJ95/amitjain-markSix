@@ -1,8 +1,0 @@
-javascript.info
-
-books on javascript - eloquentjavascript.net
-
-DOM means documenting an entire model into an object
-
-To check whether CSS code is following W3C standards
-http://jigsaw.w3.org/css-validator/
